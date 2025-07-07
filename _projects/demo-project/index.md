@@ -1,7 +1,7 @@
 ---
 layout: post
 title: (Demo Only)
-description:  (I This is for demo use only) 
+description:  (blah blah blah)
     placeholder
 skills: 
   - placeholder
