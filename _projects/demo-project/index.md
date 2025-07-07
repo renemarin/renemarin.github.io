@@ -6,6 +6,6 @@ description:  (I This is for demo use only)
 skills: 
   - placeholder
 
-main-image: /project1.jpg
+main-image: /project11.jpg
 ---
 
