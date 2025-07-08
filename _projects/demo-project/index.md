@@ -7,6 +7,6 @@ skills:
   - skills placeholder
 
 
-main-image: /project1.jpg
+main-image: /project1.png
 ---
 
