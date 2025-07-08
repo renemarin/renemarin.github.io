@@ -15,7 +15,7 @@ title: Rene Marin's Portfolio # This is what shows up in the tab of the browser
 name: Rene Marin
 headline: CompSci
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  placeholder
+  Work in Progress buddy boy
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
 
@@ -41,7 +41,7 @@ external-links:    # input only your own url slug. The icons with missing entrie
 
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
 skills: 
-  - category: PCB Design
+  - category: Skill Placeholder
     tools:
     - placeholder
 
@@ -58,7 +58,7 @@ colors: # this is the basic theme
   border: "#e0f2ef"
   link: "#40b3a2"
   highlight: "#2a9d8f"
-  background: "#f7fbfa"
+  background: "#34495E"
   light_background: "#f0f9f7"
 
 # A few examples. 
