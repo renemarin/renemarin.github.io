@@ -1,10 +1,11 @@
 ---
 layout: post
-title: (Demo Only)
+title: Just a Demo for now
 description:  (blah blah blah)
-    placeholder
+   
 skills: 
-  - placeholder
+  - skills placeholder
+
 
 main-image: /project11.jpg
 ---
