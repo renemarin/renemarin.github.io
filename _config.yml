@@ -57,8 +57,18 @@ colors: # this is the basic theme
   border: "#e0f2ef"
   link: "#40b3a2"
   highlight: "#2a9d8f"
-  background: "#e9d8a6"
-  light_background: "#f0f9f7"
+  #background: "#e9d8a6"
+  #light_background: "#f0f9f7"
+  background_gradient:
+  type: linear # or radial
+  angle: 90deg # (for linear)
+  stops:
+    - color: "#FF0000" # Red
+      position: 0%
+    - color: "#FFFF00" # Yellow
+      position: 50%
+    - color: "#0000FF" # Blue
+      position: 100%
 
 # A few examples. 
 basic theme:
